@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Markdown on Beli&#39;s blog</title>
-    <link>https://blog.belibug.com/tags/markdown/</link>
-    <description>Recent content in Markdown on Beli&#39;s blog</description>
+    <title>Beli&#39;s blog</title>
+    <link>https://blog.belibug.com/</link>
+    <description>Recent content on Beli&#39;s blog</description>
     <image>
       <title>Beli&#39;s blog</title>
       <url>https://blog.belibug.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.126.3</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="https://blog.belibug.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.belibug.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Magic - From plain text to rich document</title>
       <link>https://blog.belibug.com/post/markdown-magic/</link>
