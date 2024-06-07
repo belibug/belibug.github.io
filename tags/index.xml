@@ -6,13 +6,27 @@
     <description>Recent content in Tags on Beli&#39;s blog</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.belibug.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide</title>
+      <link>https://blog.belibug.com/tags/guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.belibug.com/tags/guide/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Markdown</title>
       <link>https://blog.belibug.com/tags/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.belibug.com/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://blog.belibug.com/tags/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.belibug.com/tags/tools/</guid>
       <description></description>
     </item>
   </channel>
