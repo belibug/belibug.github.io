@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Beli&#39;s blog</title>
-    <link>https://blog.belibug.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Beli&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Jun 2024 23:06:07 -0300</lastBuildDate>
-    <atom:link href="https://blog.belibug.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code</title>
-      <link>https://blog.belibug.com/tags/code/</link>
+      <link>http://localhost:1313/tags/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.belibug.com/tags/code/</guid>
+      <guid>http://localhost:1313/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>Guide</title>
-      <link>https://blog.belibug.com/tags/guide/</link>
+      <link>http://localhost:1313/tags/guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.belibug.com/tags/guide/</guid>
+      <guid>http://localhost:1313/tags/guide/</guid>
       <description></description>
     </item>
     <item>
       <title>Powershell</title>
-      <link>https://blog.belibug.com/tags/powershell/</link>
+      <link>http://localhost:1313/tags/powershell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.belibug.com/tags/powershell/</guid>
+      <guid>http://localhost:1313/tags/powershell/</guid>
       <description></description>
     </item>
     <item>
       <title>Psgallery</title>
-      <link>https://blog.belibug.com/tags/psgallery/</link>
+      <link>http://localhost:1313/tags/psgallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.belibug.com/tags/psgallery/</guid>
+      <guid>http://localhost:1313/tags/psgallery/</guid>
       <description></description>
     </item>
     <item>
       <title>Pwsh</title>
-      <link>https://blog.belibug.com/tags/pwsh/</link>
+      <link>http://localhost:1313/tags/pwsh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.belibug.com/tags/pwsh/</guid>
+      <guid>http://localhost:1313/tags/pwsh/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://blog.belibug.com/tags/markdown/</link>
+      <link>http://localhost:1313/tags/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.belibug.com/tags/markdown/</guid>
+      <guid>http://localhost:1313/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
-      <link>https://blog.belibug.com/tags/tools/</link>
+      <link>http://localhost:1313/tags/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.belibug.com/tags/tools/</guid>
+      <guid>http://localhost:1313/tags/tools/</guid>
       <description></description>
     </item>
   </channel>
