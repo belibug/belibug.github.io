@@ -4,10 +4,24 @@
     <title>Guide on Beli&#39;s blog</title>
     <link>https://blog.belibug.com/tags/guide/</link>
     <description>Recent content in Guide on Beli&#39;s blog</description>
-    <generator>Hugo -- 0.127.0</generator>
+    <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 23:06:07 -0300</lastBuildDate>
     <atom:link href="https://blog.belibug.com/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taking Your PowerShell Module to PSGallery, A Simple Guide</title>
+      <link>https://blog.belibug.com/post/ps-psgallery/</link>
+      <pubDate>Tue, 25 Jun 2024 23:06:07 -0300</pubDate>
+      <guid>https://blog.belibug.com/post/ps-psgallery/</guid>
+      <description>From Script to Shared Success, Publishing on the PowerShell Gallery</description>
+    </item>
+    <item>
+      <title>From Scattered Scripts to Organized Modules, A guide to PowerShell Modules</title>
+      <link>https://blog.belibug.com/post/ps-modulebuild/</link>
+      <pubDate>Fri, 21 Jun 2024 23:06:07 -0300</pubDate>
+      <guid>https://blog.belibug.com/post/ps-modulebuild/</guid>
+      <description>Master the craft of creating efficient and reusable code through PowerShell modules</description>
+    </item>
     <item>
       <title>The Power of Markdown for Everyone</title>
       <link>https://blog.belibug.com/post/markdown-magic/</link>
