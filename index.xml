@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Beli&#39;s blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://blog.belibug.com/</link>
     <description>Recent content on Beli&#39;s blog</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Jun 2024 23:06:07 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.belibug.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Taking Your PowerShell Module to PSGallery, A Simple Guide</title>
-      <link>http://localhost:1313/post/ps-psgallery/</link>
+      <link>https://blog.belibug.com/post/ps-psgallery/</link>
       <pubDate>Tue, 25 Jun 2024 23:06:07 -0300</pubDate>
-      <guid>http://localhost:1313/post/ps-psgallery/</guid>
+      <guid>https://blog.belibug.com/post/ps-psgallery/</guid>
       <description>From Script to Shared Success, Publishing on the PowerShell Gallery</description>
     </item>
     <item>
       <title>The Power of Markdown for Everyone</title>
-      <link>http://localhost:1313/post/markdown-magic/</link>
+      <link>https://blog.belibug.com/post/markdown-magic/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/markdown-magic/</guid>
+      <guid>https://blog.belibug.com/post/markdown-magic/</guid>
       <description>The Essential Writing Tool for the Digital Age, Simplify Your Writing Workflow!</description>
     </item>
   </channel>
