@@ -15,5 +15,12 @@
       <guid>https://blog.belibug.com/post/ps-psgallery/</guid>
       <description>From Script to Shared Success, Publishing on the PowerShell Gallery</description>
     </item>
+    <item>
+      <title>Simplify PowerShell Module Development with ModuleTools</title>
+      <link>https://blog.belibug.com/post/ps-modulebuild/</link>
+      <pubDate>Fri, 21 Jun 2024 23:06:07 -0300</pubDate>
+      <guid>https://blog.belibug.com/post/ps-modulebuild/</guid>
+      <description>From Scattered Scripts to Organized Modules,  Master the craft of creating efficient and reusable code</description>
+    </item>
   </channel>
 </rss>
