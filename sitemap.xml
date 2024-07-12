@@ -3,30 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.belibug.com/</loc>
-    <lastmod>2024-06-25T23:06:07-03:00</lastmod>
+    <lastmod>2024-07-12T17:36:31-03:00</lastmod>
   </url><url>
     <loc>https://blog.belibug.com/tags/code/</loc>
-    <lastmod>2024-06-25T23:06:07-03:00</lastmod>
+    <lastmod>2024-07-12T17:36:31-03:00</lastmod>
   </url><url>
     <loc>https://blog.belibug.com/tags/guide/</loc>
-    <lastmod>2024-06-25T23:06:07-03:00</lastmod>
+    <lastmod>2024-07-12T17:36:31-03:00</lastmod>
+  </url><url>
+    <loc>https://blog.belibug.com/post/ps-mold/</loc>
+    <lastmod>2024-07-12T17:36:31-03:00</lastmod>
   </url><url>
     <loc>https://blog.belibug.com/post/</loc>
-    <lastmod>2024-06-25T23:06:07-03:00</lastmod>
+    <lastmod>2024-07-12T17:36:31-03:00</lastmod>
   </url><url>
     <loc>https://blog.belibug.com/tags/powershell/</loc>
-    <lastmod>2024-06-25T23:06:07-03:00</lastmod>
+    <lastmod>2024-07-12T17:36:31-03:00</lastmod>
   </url><url>
     <loc>https://blog.belibug.com/tags/psgallery/</loc>
-    <lastmod>2024-06-25T23:06:07-03:00</lastmod>
+    <lastmod>2024-07-12T17:36:31-03:00</lastmod>
+  </url><url>
+    <loc>https://blog.belibug.com/tags/</loc>
+    <lastmod>2024-07-12T17:36:31-03:00</lastmod>
+  </url><url>
+    <loc>https://blog.belibug.com/tags/tool/</loc>
+    <lastmod>2024-07-12T17:36:31-03:00</lastmod>
   </url><url>
     <loc>https://blog.belibug.com/post/ps-psgallery/</loc>
     <lastmod>2024-06-25T23:06:07-03:00</lastmod>
   </url><url>
     <loc>https://blog.belibug.com/tags/pwsh/</loc>
-    <lastmod>2024-06-25T23:06:07-03:00</lastmod>
-  </url><url>
-    <loc>https://blog.belibug.com/tags/</loc>
     <lastmod>2024-06-25T23:06:07-03:00</lastmod>
   </url><url>
     <loc>https://blog.belibug.com/post/ps-modulebuild/</loc>
