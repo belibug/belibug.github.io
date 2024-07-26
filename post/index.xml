@@ -4,10 +4,17 @@
     <title>Posts on Beli&#39;s blog</title>
     <link>https://blog.belibug.com/post/</link>
     <description>Recent content in Posts on Beli&#39;s blog</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jul 2024 17:36:31 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.belibug.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Modular PowerShell Profile - Part 1 of 2</title>
+      <link>https://blog.belibug.com/post/ps-profile-01/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.belibug.com/post/ps-profile-01/</guid>
+      <description>Simplify Your Workflow, Detailed guide to setting up a Flexible PowerShell Profile</description>
+    </item>
     <item>
       <title>Introducing PowerShell Templating Engine - Mold</title>
       <link>https://blog.belibug.com/post/ps-mold/</link>
