@@ -2,45 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Beli&#39;s blog</title>
-    <link>https://blog.belibug.com/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on Beli&#39;s blog</description>
-    <generator>Hugo -- 0.129.0</generator>
+    <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.belibug.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Dec 2024 12:44:19 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The State of BIOS Management - A Comprehensive Overview</title>
+      <link>http://localhost:1313/post/bios-management/</link>
+      <pubDate>Fri, 20 Dec 2024 12:44:19 -0600</pubDate>
+      <guid>http://localhost:1313/post/bios-management/</guid>
+      <description>A deep dive into best practices and tools for BIOS configuration and security</description>
+    </item>
     <item>
       <title>Building a Modular PowerShell Profile - Part 1 of 2</title>
-      <link>https://blog.belibug.com/post/ps-profile-01/</link>
+      <link>http://localhost:1313/post/ps-profile-01/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.belibug.com/post/ps-profile-01/</guid>
+      <guid>http://localhost:1313/post/ps-profile-01/</guid>
       <description>Simplify Your Workflow, Detailed guide to setting up a Flexible PowerShell Profile</description>
     </item>
     <item>
       <title>Introducing PowerShell Templating Engine - Mold</title>
-      <link>https://blog.belibug.com/post/ps-mold/</link>
+      <link>http://localhost:1313/post/ps-mold/</link>
       <pubDate>Fri, 12 Jul 2024 17:36:31 -0300</pubDate>
-      <guid>https://blog.belibug.com/post/ps-mold/</guid>
+      <guid>http://localhost:1313/post/ps-mold/</guid>
       <description>The Missing Piece in Your PowerShell Toolkit, the Intuitive Template Engine 🛠️</description>
     </item>
     <item>
       <title>Publishing Module to PSGallery</title>
-      <link>https://blog.belibug.com/post/ps-psgallery/</link>
+      <link>http://localhost:1313/post/ps-psgallery/</link>
       <pubDate>Tue, 25 Jun 2024 23:06:07 -0300</pubDate>
-      <guid>https://blog.belibug.com/post/ps-psgallery/</guid>
+      <guid>http://localhost:1313/post/ps-psgallery/</guid>
       <description>From Script to Shared Success, Publishing on the PowerShell Gallery</description>
     </item>
     <item>
       <title>Simplify PowerShell Module Development with ModuleTools</title>
-      <link>https://blog.belibug.com/post/ps-modulebuild/</link>
+      <link>http://localhost:1313/post/ps-modulebuild/</link>
       <pubDate>Fri, 21 Jun 2024 23:06:07 -0300</pubDate>
-      <guid>https://blog.belibug.com/post/ps-modulebuild/</guid>
+      <guid>http://localhost:1313/post/ps-modulebuild/</guid>
       <description>From Scattered Scripts to Organized Modules,  Master the craft of creating efficient and reusable code</description>
     </item>
     <item>
+      <title>Building a Modular PowerShell Profile - Part 2 of 2</title>
+      <link>http://localhost:1313/post/ps-profile-02/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ps-profile-02/</guid>
+      <description>Simplify Your Workflow, Detailed guide to setting up a Flexible PowerShell Profile</description>
+    </item>
+    <item>
       <title>The Power of Markdown for Everyone</title>
-      <link>https://blog.belibug.com/post/markdown-magic/</link>
+      <link>http://localhost:1313/post/markdown-magic/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.belibug.com/post/markdown-magic/</guid>
+      <guid>http://localhost:1313/post/markdown-magic/</guid>
       <description>The Essential Writing Tool for the Digital Age, Simplify Your Writing Workflow!</description>
     </item>
   </channel>
