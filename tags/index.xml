@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Beli&#39;s blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://blog.belibug.com/tags/</link>
     <description>Recent content in Tags on Beli&#39;s blog</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 20 Dec 2024 12:44:19 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.belibug.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guide</title>
-      <link>http://localhost:1313/tags/guide/</link>
+      <link>https://blog.belibug.com/tags/guide/</link>
       <pubDate>Fri, 20 Dec 2024 12:44:19 -0600</pubDate>
-      <guid>http://localhost:1313/tags/guide/</guid>
+      <guid>https://blog.belibug.com/tags/guide/</guid>
       <description></description>
     </item>
     <item>
       <title>Imaging</title>
-      <link>http://localhost:1313/tags/imaging/</link>
+      <link>https://blog.belibug.com/tags/imaging/</link>
       <pubDate>Fri, 20 Dec 2024 12:44:19 -0600</pubDate>
-      <guid>http://localhost:1313/tags/imaging/</guid>
+      <guid>https://blog.belibug.com/tags/imaging/</guid>
       <description></description>
     </item>
     <item>
       <title>Intune</title>
-      <link>http://localhost:1313/tags/intune/</link>
+      <link>https://blog.belibug.com/tags/intune/</link>
       <pubDate>Fri, 20 Dec 2024 12:44:19 -0600</pubDate>
-      <guid>http://localhost:1313/tags/intune/</guid>
+      <guid>https://blog.belibug.com/tags/intune/</guid>
       <description></description>
     </item>
     <item>
       <title>Sccm</title>
-      <link>http://localhost:1313/tags/sccm/</link>
+      <link>https://blog.belibug.com/tags/sccm/</link>
       <pubDate>Fri, 20 Dec 2024 12:44:19 -0600</pubDate>
-      <guid>http://localhost:1313/tags/sccm/</guid>
+      <guid>https://blog.belibug.com/tags/sccm/</guid>
       <description></description>
     </item>
     <item>
       <title>Code</title>
-      <link>http://localhost:1313/tags/code/</link>
+      <link>https://blog.belibug.com/tags/code/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/code/</guid>
+      <guid>https://blog.belibug.com/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>Powershell</title>
-      <link>http://localhost:1313/tags/powershell/</link>
+      <link>https://blog.belibug.com/tags/powershell/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/powershell/</guid>
+      <guid>https://blog.belibug.com/tags/powershell/</guid>
       <description></description>
     </item>
     <item>
       <title>Pwsh</title>
-      <link>http://localhost:1313/tags/pwsh/</link>
+      <link>https://blog.belibug.com/tags/pwsh/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pwsh/</guid>
+      <guid>https://blog.belibug.com/tags/pwsh/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
-      <link>http://localhost:1313/tags/tools/</link>
+      <link>https://blog.belibug.com/tags/tools/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tools/</guid>
+      <guid>https://blog.belibug.com/tags/tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Psgallery</title>
-      <link>http://localhost:1313/tags/psgallery/</link>
+      <link>https://blog.belibug.com/tags/psgallery/</link>
       <pubDate>Fri, 12 Jul 2024 17:36:31 -0300</pubDate>
-      <guid>http://localhost:1313/tags/psgallery/</guid>
+      <guid>https://blog.belibug.com/tags/psgallery/</guid>
       <description></description>
     </item>
     <item>
       <title>Tool</title>
-      <link>http://localhost:1313/tags/tool/</link>
+      <link>https://blog.belibug.com/tags/tool/</link>
       <pubDate>Fri, 12 Jul 2024 17:36:31 -0300</pubDate>
-      <guid>http://localhost:1313/tags/tool/</guid>
+      <guid>https://blog.belibug.com/tags/tool/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
+      <link>https://blog.belibug.com/tags/markdown/</link>
       <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <guid>https://blog.belibug.com/tags/markdown/</guid>
       <description></description>
     </item>
   </channel>

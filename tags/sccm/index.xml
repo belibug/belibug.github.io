@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sccm on Beli&#39;s blog</title>
-    <link>http://localhost:1313/tags/sccm/</link>
+    <link>https://blog.belibug.com/tags/sccm/</link>
     <description>Recent content in Sccm on Beli&#39;s blog</description>
     <generator>Hugo -- 0.140.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 20 Dec 2024 12:44:19 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/sccm/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.belibug.com/tags/sccm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The State of BIOS Management - A Comprehensive Overview</title>
-      <link>http://localhost:1313/post/bios-management/</link>
+      <link>https://blog.belibug.com/post/bios-management/</link>
       <pubDate>Fri, 20 Dec 2024 12:44:19 -0600</pubDate>
-      <guid>http://localhost:1313/post/bios-management/</guid>
+      <guid>https://blog.belibug.com/post/bios-management/</guid>
       <description>A deep dive into best practices and tools for BIOS configuration and security</description>
     </item>
   </channel>
